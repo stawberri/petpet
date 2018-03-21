@@ -1,6 +1,6 @@
 {
   "name": "petpet",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "virtual pet server",
   "main": "lib",
   "bin": "bin/index.js",
