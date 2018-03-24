@@ -21,13 +21,18 @@
   },
   "homepage": "https://github.com/stawberri/petpet#readme",
   "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
     "rxjs": "^5.5.7"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.2",
     "eslint": "^4.19.0",
+    "graphql-request": "^1.5.1",
     "husky": "^0.14.3",
     "jest": "^22.4.2",
+    "portfinder": "^1.0.13",
     "prettier": "^1.11.1",
     "pretty-quick": "^1.4.1"
   }
